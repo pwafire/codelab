@@ -1,4 +1,7 @@
 
+### [Get started]()
+
+We are still building this template to make it even much better and easier to config. Meanwhile, Man's Got To CODE 😜😝
 
     - Do not forget to edit this important lines of code; which describes what your codelab is all about
     
