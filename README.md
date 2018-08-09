@@ -11,7 +11,9 @@ or adding a new feature to an existing application. If you want to [PUBLISH a we
  <title>PWA Fire Codelabs - [ Codelab Title ] </title>
  <meta name="description" content="[add codelab description]">
 
- <!-- -->
+ <!-- 
+ ....
+ -->
 
  <!-- codelab sharing meta data -->
  <meta property="og:title" content="PWA Fire Codelabs - Make Your PWA sharable with Web Share API">
