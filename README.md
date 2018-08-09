@@ -4,7 +4,7 @@
 or adding a new feature to an existing application. If you want to [PUBLISH a web codelab here](https://pwafire.org/developer/codelabs/), let's just [get started.](https://goo.gl/forms/TGQnmcryedmAi6W72)
 
 
-    - Do not forget to edit this important line of code; which describes what your codelab is all about
+    - Do not forget to edit this important lines of code; which describes what your codelab is all about
     
  ```html
 
