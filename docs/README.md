@@ -27,5 +27,7 @@ We are still building this template to make it even much better and easier to co
 
  ```
  
+ #### [Keep in mind]()
+ 
     You should be having internet connection to start editing or curating your codelab; all the page styles 
     and js served from our official site. 
