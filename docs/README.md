@@ -1,7 +1,8 @@
 
 ### [Get started]()
 
-We are still building this template to make it even much better and easier to config. Meanwhile, Man's Got To CODE 😜😝
+We are still building this template to make it even much better and easier to config. Meanwhile, Man's Got To CODE 😜😝 !
+[Fork this project](https://github.com/pwafire/codelab/fork) and create your codelab. After curating it and ready, we got to get it [published here](https://pwafire.org/developer/codelabs/)
 
     - Do not forget to edit this important lines of code; which describes what your codelab is all about
     
