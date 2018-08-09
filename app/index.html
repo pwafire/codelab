@@ -1,27 +1,26 @@
 
 <!doctype html>
+<!-- https://pwafire.org/developer 2018 
+-->
 <html lang="en">
-    <head>
-    <!--
-	  A project PWA Fire written. All writes reserved https://pwafire.org 2018.
-    Author : Maye Edwin https://maye.gdgmoi.com
-    -->
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113005114-1"></script>
-      <script>
- window.dataLayer = window.dataLayer || [];
-   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+     <head>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113005114-1"></script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
 
-gtag('config', 'UA-113005114-1');
-   </script>
+     gtag('config', 'UA-113005114-1');
+     </script>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="In this codelab we are going to convert our demo site into a Progressive Web App. Make sure to follow all the steps as documented.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <title>PWA Fire Codelabs - How to use PWA Fire Bundle - PWA Fire Developer</title>
-    <!-- Add to homescreen -->
+    <meta name="description" content="In this codelab we are going to convert our demo site into a Progressive Web App. Make sure to follow all the steps as documented.">
+    <meta name="twitter:image" content="https://pwafire.org/images/pwafire-apps.jpg">
+    <!-- web manifest -->
     <link rel="manifest" href="https://pwafire.org/manifest.json">
     <link rel="icon" sizes="192x192" href="https://pwafire.org/developer/images/icons/icon-192x192.png">
     <!-- Fallback to homescreen for Chrome <39 on Android -->
@@ -33,9 +32,16 @@ gtag('config', 'UA-113005114-1');
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="PWA Fire">
     <link rel="apple-touch-icon" href="https://pwafire.org/images/icons/pwafire32white.png">
-    <meta name="twitter:image" content="https://pwafire.org/images/pwafire-apps.jpg">
     <meta name="theme-color" content="#fff">
     <link rel="shortcut icon" sizes="32x32" href="https://pwafire.org/images/pwafire32white.png">
+    <!-- codelab sharing meta data -->
+    <meta property="og:title" content="PWA Fire Codelabs - Make Your PWA sharable with Web Share API">
+    <meta property="og:site_name" content="PWA Fire Codelabs - Make Your PWA sharable with Web Share API">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="In this codelab you will learn how to use the Web Share API which allows you easily trigger the native Android share dialog, passing either a URL or text to share.">
+    <meta property="og:image" content="https://pwafire.org/images/pwafire-apps.jpg">
+    <meta property="og:image:type" content="image/png" />
+    <meta name="theme-color" content="#fff">
     <!-- canonical url -->
     <link rel="canonical" href="http://pwafire.org/developer/codelabs/pwafire/">
     <!-- Page styles -->
