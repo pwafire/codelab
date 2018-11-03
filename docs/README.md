@@ -12,7 +12,9 @@ We are still building this template to make it even much better and easier to co
  <meta name="description" content="[add codelab description]">
 
  <!-- 
+
  ....
+
  -->
 
  <!-- codelab sharing meta data -->
@@ -24,6 +26,9 @@ We are still building this template to make it even much better and easier to co
  <meta property="og:image" content="https://pwafire.org/images/pwafire-apps.jpg">
  <meta property="og:image:type" content="image/png" />
  <meta name="theme-color" content="#fff">
+
+<!-- canonical url -->
+<link rel="canonical" href="http://pwafire.org/developer/codelabs/your-codelab-directory-name/">
 
  ```
  
