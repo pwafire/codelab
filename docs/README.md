@@ -8,7 +8,7 @@ We are still building this template to make it even much better and easier to co
     
  ```html
 
- <title>PWA Fire Codelabs - [ Codelab Title ] </title>
+ <title>[ Codelab Title ] / PWA Codelabs</title>
  <meta name="description" content="[add codelab description]">
 
  <!-- 
